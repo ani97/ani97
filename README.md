@@ -1,8 +1,8 @@
 
-![Background](https://github.com/aniketgupta/aniketgupta/blob/main/Background.png)
+![Background](https://github.com/ani97/ani97/blob/36eb994ac4a4e557c5078d784a5c9a9b6a5f6707/Background.png)
 
 <h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
-<h3 align="center">Data Engineer | Azure & Databricks Expert | Founder of 'The Executors' Club | AI + Productivity Enthusiast</h3>
+<h3 align="center">Data Engineer | Azure & Databricks Expert </h3>
 
 <p align="center">
   <img src="https://github.com/aniketgupta/aniketgupta/blob/main/Github_Cover_Profile.gif" width="400" alt="Coding GIF">
@@ -12,11 +12,10 @@
 
 - 🔭 Currently building real-world **Data Engineering projects using Azure & Databricks**
 - 🌱 Learning more about **Cloud architecture, Spark optimization, and automation**
-- 🧠 Passionate about **AI, Automation, and boosting Productivity**
 - 🗣️ Ask me about **Azure Data Engineering, Databricks, SQL, and Growth Hacks**
 - ✍️ I write regularly on [Medium](https://medium.com/@aniketgupta00077)
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/aniket-gupta-82b030106/)
-- 🧠 Founder of [The Executors' Club](#) — Driving Growth, Execution & Discipline
+
 
 ---
 
