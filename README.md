@@ -23,9 +23,17 @@
 
 <p align="left">
   <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
+  <a href="https://www.databricks.com/" target="_blank">
+  <img src="https://w7.pngwing.com/pngs/769/465/png-transparent-databricks-full-logo-tech-companies.png" alt="Databricks" width="100" height="40"/>
+</a>
+
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.sqlservertutorial.net/" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://spark.apache.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="Apache Spark" width="100" height="40"/>
+</a>
+
 </p>
 
 ---
