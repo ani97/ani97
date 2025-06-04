@@ -1,5 +1,5 @@
 
-![Background](https://github.com/ani97/ani97/blob/main/updated_background.png)
+![Background](https://github.com/ani97/ani97/blob/main/Background.png)
 
 <h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
 <h3 align="center">Data Engineer | Azure & Databricks Expert </h3>
